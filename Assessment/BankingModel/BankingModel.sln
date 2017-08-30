@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingModel", "BankingModel\BankingModel.csproj", "{14906B85-9C83-44C0-B1E6-E76CC01FD9C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingModelTest", "BankingModelTest\BankingModelTest.csproj", "{5172532C-3180-453C-999E-F9E2F147E302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14906B85-9C83-44C0-B1E6-E76CC01FD9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14906B85-9C83-44C0-B1E6-E76CC01FD9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14906B85-9C83-44C0-B1E6-E76CC01FD9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14906B85-9C83-44C0-B1E6-E76CC01FD9C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5172532C-3180-453C-999E-F9E2F147E302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5172532C-3180-453C-999E-F9E2F147E302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5172532C-3180-453C-999E-F9E2F147E302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5172532C-3180-453C-999E-F9E2F147E302}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E9EC5E4-FBE5-4D52-9359-AC260BE2FC4F}
+	EndGlobalSection
+EndGlobal

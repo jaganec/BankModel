@@ -1,0 +1,2 @@
+C:\Assessment\Banking\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Assessment\Banking\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache

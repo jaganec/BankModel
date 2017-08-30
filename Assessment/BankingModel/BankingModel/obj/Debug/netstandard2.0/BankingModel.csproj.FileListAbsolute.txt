@@ -1,0 +1,9 @@
+C:\Assessment\BankingModel\BankingModel\bin\Debug\netstandard2.0\BankingModel.deps.json
+C:\Assessment\BankingModel\BankingModel\bin\Debug\netstandard2.0\BankingModel.dll
+C:\Assessment\BankingModel\BankingModel\bin\Debug\netstandard2.0\BankingModel.pdb
+C:\Assessment\BankingModel\BankingModel\obj\Debug\netstandard2.0\BankingModel.csprojResolveAssemblyReference.cache
+C:\Assessment\BankingModel\BankingModel\obj\Debug\netstandard2.0\BankingModel.csproj.CoreCompileInputs.cache
+C:\Assessment\BankingModel\BankingModel\obj\Debug\netstandard2.0\BankingModel.AssemblyInfoInputs.cache
+C:\Assessment\BankingModel\BankingModel\obj\Debug\netstandard2.0\BankingModel.AssemblyInfo.cs
+C:\Assessment\BankingModel\BankingModel\obj\Debug\netstandard2.0\BankingModel.dll
+C:\Assessment\BankingModel\BankingModel\obj\Debug\netstandard2.0\BankingModel.pdb

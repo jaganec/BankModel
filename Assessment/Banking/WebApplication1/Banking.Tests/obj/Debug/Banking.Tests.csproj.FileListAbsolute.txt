@@ -1,0 +1,2 @@
+C:\Assessment\Banking\WebApplication1\Banking.Tests\obj\Debug\Banking.Tests.csprojResolveAssemblyReference.cache
+C:\Assessment\Banking\WebApplication1\Banking.Tests\obj\Debug\Banking.Tests.csproj.CoreCompileInputs.cache
