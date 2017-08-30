@@ -8,9 +8,6 @@ namespace BankingModel
 {
     public class Bank : IBank
     {
-        private List<IAccount> _lstAccount;
-
-        public static string BankName = "xxx";
 
         private readonly IAccount _account;
         private readonly IAccount _transferaccount;
