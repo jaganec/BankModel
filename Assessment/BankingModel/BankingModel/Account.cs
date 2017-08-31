@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BankingModel
 {
@@ -42,7 +38,11 @@ namespace BankingModel
         public decimal Money { get; set; }
 
        
-
+        /// <summary>
+        /// Debits Money from the Account
+        /// </summary>
+        /// <param name="money"></param>
+        /// <returns></returns>
         public bool RemoveMoney(decimal money)
         {
             if (this.Money >= money)
@@ -56,6 +56,11 @@ namespace BankingModel
                 return false;
         }
 
+        /// <summary>
+        /// Credits Money to the Account
+        /// </summary>
+        /// <param name="money"></param>
+        /// <returns></returns>
         public bool AddMoney(decimal money)
         {
             this.Money += money;
